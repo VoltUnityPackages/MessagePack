@@ -2,6 +2,10 @@
     "name": "com.neuecc.messagepack",
     "displayName": "MessagePack",
     "version": "2.3.58-alpha",
+    "author": { 
+        "name": "neuecc",
+        "url": "https://neuecc.medium.com/" 
+    },
     "unity": "2018.4",
     "description": "Extremely Fast MessagePack Serializer for C#.",
     "keywords": [
