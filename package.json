@@ -12,5 +12,9 @@
         "Serializer"
     ],
     "license": "MIT",
-    "category": "Scripting"
+    "category": "Scripting",
+    "dependencies": {
+        "dev.voltstro.unitysystembuffers": "1.0.0",
+        "dev.voltstro.unitysystemthreadingtasksextensions": "1.0.0"
+    }
 }
